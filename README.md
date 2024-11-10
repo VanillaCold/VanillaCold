@@ -4,4 +4,5 @@ If you've heard of me before, then it's likely through a community connected to 
 
 I've spent a <b>lot</b> of time modding Spore, from early meddling back in 2017 to more complicated data-driven systems such as <a href="https://github.com/VanillaCold/Spore-CustomAssetTypes">custom asset types</a>.  
 
-If you're interested in seeing demonstations of my Spore mods, I'd recommend checking my Youtube channel out, <a href="https://www.youtube.com/@vanillacoldspore">here.</a>
+If you're interested in seeing demonstations of my Spore mods, I'd recommend checking my Youtube channel out, <a href="https://www.youtube.com/@vanillacoldspore">here.</a>  
+Alternatively, for descriptions on some of them, you can check out my Github Pages site <a href="https://vanillacold.github.io/">here.</a>
